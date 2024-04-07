@@ -53,4 +53,9 @@ $\text{MAE}(\bold{X},h) = \cfrac 1m \sum_{i=1}^m \left|h(\bold{x^{(i)}}) - y^{(i
 <br>
 
 ## 2.3 데이터 가져오기
-여기부터는 코랩으로 작성하여 업로드 하겠음
+여기부터는 .ipynb 파일로 작성하여 업로드 하겠음
+
+또한 모든 코드는 
+[핸즈온 머신러닝 3판 깃허브]
+(https://github.com/rickiepark/handson-ml3)
+를 참고하여 더 자세히 개인적으로 작성한 것입니다.
